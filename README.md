@@ -10,8 +10,7 @@ I build practical portfolio projects with **SQL Server, T-SQL and Power BI**. I 
 
 A SQL Server and Power BI project built with synthetic financial transaction data. It explores behavioural patterns, transaction velocity, risk indicators, alert generation and investigation-focused analysis.
 
-### [Retail Sales & Customer Analytics](https://github.com/sisisi11/Retail-Sales-Customer-Analytics) â€” In Progress
-
+### [Retail Sales & Customer Analytics](https://github.com/sisisi11/Retail-Sales-Customer-Analytics) - In Progress
 A practical data pipeline that will clean and validate raw CSV files with Python, load them into SQL Server, create reporting views and present the results in Power BI.
 
 ## Skills
