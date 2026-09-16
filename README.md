@@ -1,89 +1,30 @@
 # Anton Stoychev
 
-Mathematics & Informatics student with a strong analytical background and a growing focus on **SQL, Data Analysis, Risk Analytics and Fraud Detection**.
+After five years teaching Mathematics and Informatics, I am transitioning into junior roles in **Data, BI/SQL Development and Fraud/Risk Analytics**.
 
-My background combines mathematics, programming and several years of experience working in a structured and analytical environment. I enjoy breaking complex problems into smaller parts, working with data and finding practical solutions.
+I build practical portfolio projects with **SQL Server, T-SQL and Power BI**. I am currently adding **Python and pandas** through an end-to-end retail data pipeline, with a focus on relational data modelling, data quality, analytical SQL and clear business reporting.
 
-## Current Focus
+## Featured Projects
 
-- SQL Server / T-SQL
-- Data Analysis
-- Relational Databases
-- Risk & Fraud Analytics
-- C# / Object-Oriented Programming
-- Analytical Problem Solving
+### [Fraud Detection & Transaction Risk Analytics](https://github.com/sisisi11/SQL-Learning-Portfolio)
 
-## Featured Project
+A SQL Server and Power BI project built with synthetic financial transaction data. It explores behavioural patterns, transaction velocity, risk indicators, alert generation and investigation-focused analysis.
 
-### Fraud Detection & Transaction Risk Analytics
+### [Retail Sales & Customer Analytics](https://github.com/sisisi11/Retail-Sales-Customer-Analytics) â€” In Progress
 
-An end-to-end SQL Server portfolio project built around synthetic financial transaction data.
+A practical data pipeline that will clean and validate raw CSV files with Python, load them into SQL Server, create reporting views and present the results in Power BI.
 
-The project includes:
+## Skills
 
-- Relational database design
-- Customer and transaction analysis
-- CTEs and window functions
-- Transaction velocity analysis
-- Device and country switching detection
-- Behavioural anomaly analysis
-- Customer risk scoring
-- Fraud alert generation
-- Views and stored procedures
-- SQL functions
-- Indexing and query optimization concepts
+**Portfolio experience:** SQL Server Â· T-SQL Â· Power BI Â· DAX Â· Relational Databases Â· Data Analysis Â· C# Â· Git/GitHub
 
-The project is the final part of my structured SQL learning portfolio, progressing from SQL fundamentals to analytical querying and applied risk analysis.
+**Currently developing:** Python Â· pandas Â· ETL Workflows
 
-## SQL Learning Portfolio
+## Background
 
-My SQL portfolio demonstrates a structured progression through:
-
-- SQL fundamentals and filtering
-- Aggregation and grouping
-- JOINs and relational analysis
-- Subqueries and CTEs
-- Window functions
-- Views
-- Stored procedures
-- Functions
-- Indexes
-- Data quality checks
-
-## Programming Background
-
-My earlier repositories contain programming coursework and exercises from my Software University (SoftUni) studies.
-
-I have worked with:
-
-- C#
-- Object-Oriented Programming
-- Interfaces and Abstraction
-- Generics
-- Collections
-- Unit Testing
-- Database Fundamentals
-- JavaScript
-- Java
-
-## Education
-
-Currently completing my studies in **Mathematics and Informatics** at St. Cyril and St. Methodius University of Veliko Tarnovo.
-
-My academic background has helped me develop strong foundations in:
-
-- Mathematics
-- Logical reasoning
-- Analytical thinking
-- Statistics
-- Problem solving
-- Computer science
-  
-## Professional Background
-
-Before focusing more deeply on data and analytical roles, I spent five years teaching Mathematics and Informatics in a private college environment.
-
-The role strengthened my analytical thinking, problem-solving, communication and ability
+- Five years teaching Mathematics and Informatics
+- Currently completing a degree in Mathematics and Informatics
+- Self-directed portfolio work focused on data, BI and fraud/risk analysis
 
 ## Connect
 
