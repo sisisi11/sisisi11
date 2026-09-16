@@ -15,9 +15,9 @@ A practical data pipeline that will clean and validate raw CSV files with Python
 
 ## Skills
 
-**Portfolio experience:** SQL Server Â· T-SQL Â· Power BI Â· DAX Â· Relational Databases Â· Data Analysis Â· C# Â· Git/GitHub
+**Portfolio experience:** SQL Server | T-SQL | Power BI | DAX | Relational Databases | Data Analysis | C# | Git/GitHub
 
-**Currently developing:** Python Â· pandas Â· ETL Workflows
+**Currently developing:** Python | pandas | ETL Workflows
 
 ## Background
 
